@@ -1,0 +1,7 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,44637,Low SDI,3,Both,22,All ages,294,All causes,1,Number,2021,8971403.510829387,9891043.188801283,8244880.219219101
+1,Deaths,1,Global,3,Both,22,All ages,294,All causes,1,Number,2021,67871076.62497172,70624188.62552176,65111321.61785815
+1,Deaths,44636,Low-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,15768521.12796964,16597874.221892342,14951036.51452971
+1,Deaths,44639,Middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,19583077.0797,20749900.03922505,18449982.925965477
+1,Deaths,44635,High SDI,3,Both,22,All ages,294,All causes,1,Number,2021,10552312.762848247,10654695.164096655,10452709.30231989
+1,Deaths,44634,High-middle SDI,3,Both,22,All ages,294,All causes,1,Number,2021,12930015.412909655,13670074.593129324,12187716.479099102
